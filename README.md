@@ -1,7 +1,7 @@
 ## Hi, I'm Kekeli👀
 
 🧠Computer Science Major at Ashesi University</br>
-🧾I do Front-End Web Development</br>
+</br>
 
 
 ## 🌐 Socials:
